@@ -64,7 +64,7 @@ Font size: 12pt
          &\textsc{Multiplicative Identity}\;1\in S\\ 
     3.\; & \textsc{Distributivity}\\
     & x \odot (y \oplus z) = (x \odot y) \oplus (x \odot z)\\
-    & (y \oplus z) \odot x = (y \odot z) \oplus (z \odot x) \\
+    & (y \oplus z) \odot x = (y \odot x) \oplus (z \odot x) \\
 
 ### Semiring -> Ring
 
